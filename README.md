@@ -3,7 +3,7 @@ Author: You Zhou, Kathi Zarnack
     
 A function for running the bin-based differential methylation analysis (DMA)     
 
-Example of usage:
+## Example of usage:
 
 path2htseq <- "/path/to/the/htseqresult/"    
 conditionS <- c(rep("KO",3), rep("WT",3))    
