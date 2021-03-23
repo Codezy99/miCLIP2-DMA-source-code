@@ -1,6 +1,7 @@
 # miCLIP2-DMA-source-code
-A function for running the bin-based differential methylation analysis (DMA)    
-Author: You Zhou, Kathi Zarnack
+Author: You Zhou, Kathi Zarnack    
+    
+A function for running the bin-based differential methylation analysis (DMA)     
 
 Example of usage:
 
