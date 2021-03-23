@@ -5,7 +5,7 @@ A function for running the bin-based differential methylation analysis (DMA)
 
 ## Installation
 
-install.packages(path_to_file, repos = NULL, type="source")    
+install.packages("path_to/miCLIP2SourceCode_1.0.1.tar.gz", repos = NULL, type="source")    
 
 ## Example of usage:
 
