@@ -1,0 +1,16 @@
+Package: miCLIP2SourceCode
+Type: Package
+Title: Source code for the bin-based differential methylation analysis
+Version: 1.0.1
+Author: You Zhou, Kathi Zarnack
+Maintainer: You Zhou <you.zhou@bmls.de>
+Description: Source code for the bin-based differential methylation analysis.
+License: Artistic-2.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports: 
+    dplyr, rtracklayer, GenomicRanges, GenomicFeatures, DESeq2
+Depends: 
+    S4Vectors, methods, R (>= 4.0.0)
+
