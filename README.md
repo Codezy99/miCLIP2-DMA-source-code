@@ -36,7 +36,7 @@ could be the function `truncationAssignment` in the package
 [m6Aboost](https://github.com/ZarnackGroup/m6Aboost).
 3) Generate the TxDb annotation object for the experiment.
 4) Fill the parameters and run the `binBased_DMA` function. 
-5) The `binBased_DMA` exports an GRanges object that contains the result of 
+5) The `binBased_DMA` exports a GRanges object that contains the result of 
 the peak changes.
 
 ## Example of usage:
